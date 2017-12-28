@@ -1,0 +1,1 @@
+-- script to automatize the focus stacking of rings
